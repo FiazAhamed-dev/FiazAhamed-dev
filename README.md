@@ -12,10 +12,10 @@
 - 🧪 Dev/Test: Git, VS Code, YAML, JSON
 
 ## 📂 Featured Repositories
-- [`aws-terraform-projects`](https://github.com/fiazahamed/aws-terraform-projects) – EC2, S3, IAM automation with Terraform
-- [`docker-automation-scripts`](https://github.com/fiazahamed/docker-automation-scripts) – Dockerfiles and Compose setups
-- [`ci-cd-pipelines`](https://github.com/fiazahamed/ci-cd-pipelines) – GitHub Actions & Jenkins pipelines for practice
-- [`linux-python-utils`](https://github.com/fiazahamed/linux-python-utils) – Useful Python & shell scripts
+- [`aws-terraform-projects`](https://github.com/FiazAhamed-dev/aws-terraform-projects) – EC2, S3, IAM automation with Terraform
+- [`docker-automation-scripts`](https://github.com/FiazAhamed-dev/docker-automation-scripts) – Dockerfiles and Compose setups
+- [`ci-cd-pipelines`](https://github.com/FiazAhamed-dev/ci-cd-pipelines) – GitHub Actions & Jenkins pipelines for practice
+- [`linux-python-utils`](https://github.com/FiazAhamed-dev/linux-python-utils) – Useful Python & shell scripts
 
 ## 🎯 My Goals (2025)
 - ✅ Build 5+ DevOps mini projects by August 2025
